@@ -1,4 +1,4 @@
-# <img src="./robot_freedom_ai/assets/logo_small.png" width="40">  RobotFreedom.org
+# <img src="./logo_small.png" width="40">  RobotFreedom.org
 
 Welcome to RobotFreedom.org's code repository.
 
